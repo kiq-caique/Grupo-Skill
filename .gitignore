@@ -1,0 +1,5 @@
+.env
+node_modules
+app.js
+leitura-json.js
+dados.json
